@@ -6,6 +6,7 @@
  * @param array $array Array to be sorted
  * @return array 
  */
-function idsort($array){
+function idsort(array $array) : array
+{
     return $array;
 }
