@@ -6,7 +6,7 @@
  * @param array $array Array to be sorted
  * @return array 
  */
-function idsort(array $array) : array
+function idsort(iterable $array) : iterable
 {
     return $array;
 }
